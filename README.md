@@ -15,13 +15,14 @@ My core stack includes Next.js (React), TypeScript, Node.js, and Drizzle ORM. Wh
 
 
 
-- 🌱 Currently building in public using Next.js 15, TypeScript, Node.js, and Drizzle ORM**
+🌱 Currently building in public using Next.js 15, TypeScript, Node.js, and Drizzle ORM**
 
-- 👨‍💻 Over the next few months, I'm shipping:
+👨‍💻 Over the next few months, I'm shipping:
 
-- 📊 Pure Node.js Stats API backed by rigid Vitest coverage
-- 📈 Financial Risk engine running parallel client-side simulations
-- 🚚 Real-time spatial route optimizer (Dijkstra's & A* search)
+- 📊 high-performance systems
+- 📈 math-driven optimization systems
+- 🎮 real mathematical models etc...
+
 
 Positioning for roles at the intersection of fintech/logistics systems and future quantitative research fellowships.
 I share my engineering workflows, system architectures, and math-to-code translations here
